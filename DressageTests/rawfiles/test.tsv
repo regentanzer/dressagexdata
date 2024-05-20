@@ -1,0 +1,32 @@
+test_id	test_year	test_level	test_number	test_name	test_total_points
+012003	2003	Training	1	2003 Training Level Test 1	220
+022003	2003	Training	2	2003 Traning Level Test 2	260
+032003	2003	Training	3	2003 Training Level Test 3	240
+042003	2003	Training	4	2003 Training Level Test 4	260
+112003	2003	First	1	2003 First Level Test 1	270
+122003	2003	First	2	2003 First Level Test 2	340
+132003	2003	First	3	2003 First Level Test 3	350
+142003	2003	First	4	2003 First Level Test 4	360
+212003	2003	Second	1	2003 Second Level Test 1	380
+222003	2003	Second	2	2003 Second Level Test 2	370
+232003	2003	Second	3	2003 Second Level Test 3	470
+242003	2003	Second	4	2003 Second Level Test 4	510
+312007	2007	Third	1	2007 Third Level Test 1	390
+322007	2007	Third	2	2007 Third Level Test 2	390
+332007	2007	Third	3	2007 Third Level Test 3	430
+412007	2007	Fourth	1	2007 Fourth Level Test 1	430
+502009	2009	Prix St Georges	NA	2009 Prix St Georges	380
+702009	2009	Intermediare II	NA	2009 Intermediare II	380
+802009	2009	Grand Prix	NA	2009 Grand Prix	470
+802014	2014	Grand Prix	NA	2014 Grand Prix	500
+412011	2011	Fourth	1	2011 Fourth Level Test 1	350
+422011	2011	Fourth	2	2011 Fourth Level Test 2	370
+112015	2015	First	1	2015 First Level Test 1	270
+122015	2015	First	2	2015 First Level Test 2	320
+132015	2015	First	3	2015 First Level Test 3	340
+022015	2015	Training	2	2015 Training Level Test 2	260
+032015	2015	Training	3	2015 Training Level Test 3	220
+312019	2019	Third	1	2019 Third Level Test 1	370
+332019	2019	Third	3	2019 Third Level Test 3	400
+602014	2014	Intermediare I	NA	2014 Intermediare I	380
+702014	2014	Intermediare II	NA	2014 Intermediare II	380

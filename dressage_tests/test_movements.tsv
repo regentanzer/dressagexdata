@@ -1,0 +1,714 @@
+movement_id	test_id	coefficient	movement_total_points	movement_name	movement_type	is_lateral_work	is_lengmedext	movement_direction	movement_gait
+01200301	012003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+01200302	012003	1	10	C track left; E circle left 20m	Circle	No	No	Left	Working Trot
+01200303	012003	1	10	Between K and A working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+01200304	012003	1	10	B circle left 20m	Circle	No	No	Left	Working Canter
+01200305	012003	1	10	Between centerline and B working trot	Transition	No	No	Left	Working Canter to Working Trot
+01200306	012003	1	10	C medium walk; C-H medium walk	Transition	No	No	Left	Working Trot to Medium Walk
+01200307	012003	2	20	HXF free walk; F-A medium walk	Free Walk	No	No	Left to Right	Free Walk
+01200308	012003	1	10	A working trot	Transition	No	No	Right	Medium Walk to Working Trot
+01200309	012003	1	10	E circle right 20m	Circle	No	No	Right	Working Trot
+01200310	012003	1	10	Between H and C working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+01200311	012003	1	10	B circle right 20m	Circle	No	No	Right	Working Canter
+01200312	012003	1	10	Between centerline and B working trot	Transition	No	No	Right	Working Canter to Working Trot
+01200313	012003	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+02200301	022003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+02200302	022003	1	10	C track right B circle right 20m	Circle	No	No	Right	Working Trot
+02200303	022003	1	10	KXM change rein working trot	Diagonal	No	No	Right to Left	Working Trot
+02200304	022003	1	10	Between C and H working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+02200305	022003	2	20	E circle left 20m	Circle	No	No	Left	Working Canter
+02200306	022003	1	10	Between E and K working trot	Transition	No	No	Left	Working Canter to Working Trot
+02200307	022003	1	10	A medium walk; A-F medium walk	Transition	No	No	Left	Working Trot to Medium Walk
+02200308	022003	2	20	FXM free walk	Free Walk	No	No	Left	Free Walk
+02200309	022003	1	10	MC medium walk	Walk	No	No	Left	Medium Walk  
+02200310	022003	1	10	C working trot; E circle left 20m	Circle	No	No	Left	Medium Walk to Working Trot
+02200311	022003	1	10	FXH change rein working trot	Diagonal	No	No	Left to Right	Working Trot
+02200312	022003	1	10	Between C and M working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+02200313	022003	2	20	B circle right 20m	Circle	No	No	Right	Working Canter
+02200314	022003	1	10	Between B and F working trot	Transition	No	No	Right	Working Canter to Working Trot
+02200315	022003	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+03200301	032003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+03200302	032003	1	10	C track left, E turn left, X circle left 20m	Circle	No	No	Left	Working Trot
+03200303	032003	1	10	X circle right 20m, B turn right	Circle	No	No	Right	Working Trot
+03200304	032003	1	10	A working canter righ tlead	Transition	No	No	Right	Working Trot to Working Canter
+03200305	032003	1	10	A circle right 20m	Circle	No	No	Right	Working Canter
+03200306	032003	1	10	E-B half circle 20m, near centerline wokring trot; B straight ahead	Transition	No	No	Right	Working Canter to Working Trot
+03200307	032003	1	10	A medium walk; A-K medium walk	Transition	No	No	Right	Working Trot to Medium walk
+03200308	032003	2	20	K-B free walk	Free Walk	No	No	Right to Left	Free Walk
+03200309	032003	1	10	B-M medium walk	Walk	No	No	Left	Medium Walk
+03200310	032003	1	10	M working trot, C working canter left lead	Transition	No	No	Left	Medium Walk to Working Trot to Working Canter
+03200311	032003	1	10	C circle left 20m	Circle	No	No	Left	Working Canter
+03200312	032003	1	10	E-B half circle 20m, near centerline wokring trot; B-H change rein	Transition	No	No	Left to Right	Working Canter to Working Trot
+03200313	032003	2	20	B stretch circle	Stretching	No	No	Right	Stretch Trot
+03200314	032003	1		A down centerline, X halt salute	Centerline	No	No	Right	Working Trot
+04200301	042003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+04200302	042003	1	10	C track right; MXF one loop	Serpentine	No	No	Serpentine	Working Trot
+04200303	042003	1	10	Between A and K working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+04200304	042003	1	10	E circle right 20m	Circle	No	No	Right	Working Canter
+04200305	042003	1	10	E-H working canter	Canter	No	No	Right	Working Canter
+04200306	042003	1	10	H working trot	Transition	No	No	Right	Working Canter to Working Trot
+04200307	042003	1	10	C medium walk C-M medium walk	Transition	No	No	Right	Working Trot to Medium walk
+04200308	042003	2	20	MXK free walk KA medium walk	Stretching	No	No	Right to Left	Free Walk
+04200309	042003	1	10	A working trot FXM one loop	Serpentine	No	No	Serpentine	Medium Walk to Working Trot
+04200310	042003	1	10	Between C and H working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+04200311	042003	1	10	E circle left 20m	Circle	No	No	Left	Working Canter
+04200312	042003	1	10	E-K working canter	Canter	No	No	Left	Working Canter
+04200313	042003	1	10	K working trot	Transition	No	No	Left	Working Canter to Working Trot
+04200314	042003	2	20	B stretch circle	Stretching	No	No	Left	Stretch Trot
+04200315	042003	1	10	B working trot	Trot	No	No	Left	Working Trot
+04200316	042003	1	10	E turn left, X turn left, G halt salute	Centerline	No	No	Left	Working Trot
+11200301	112003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+11200302	112003	1	10	C track left; E-X half circle 10m returning to the track at H	Half Circle	No	No	Left	Working Trot
+11200303	112003	1	10	B-X half circle 10m returning to the track at M	Half Circle	No	No	Right	Working Trot
+11200304	112003	1	10	HXF Lengthen stride in trot rising; F working trot sitting	Lengthening	No	Yes	Right to Left	Lengthened Trot
+11200305	112003	2	20	A-C 3 loop serpentine width of arena	Serpentine	No	No	Serpentine	Working Trot
+11200306	112003	1	10	C medium walk, C-M medium walk	Transition	No	No	Left	Working Trot to Medium Walk
+11200307	112003	2	20	M-E Free walk, E-F medium walk	Stretching	No	No	Left to Right	Free Walk
+11200308	112003	1	10	F Working trot, A working canter right lead	Transition	No	No	Right	Medium Walk to Working Trot to Working Canter
+11200309	112003	1	10	E Circle right 15m	Circle	No	No	Right	Working Canter
+11200310	112003	1	10	MXK Change rein; X working trot	Transition	No	No	Right to Left	Working Canter to Working Trot
+11200311	112003	1	10	K working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+11200312	112003	1	10	B Circle left 15m	Circle	No	No	Left	Working Canter
+11200313	112003	1	10	HXF Change rein; X working trot	Transition	No	No	Left to Right	Working Canter to Working Trot
+11200314	112003	1	10	KXM Lengthen stride in trot rising; M working trot sitting	Lengthening	No	Yes	Right to Left	Lengthened Trot
+11200315	112003	2	20	C Stretch circle	Stretching	No	No	Left	Stretch Trot
+11200316	112003	1	10	E turn left, X turn left, G halt salute	Centerline	No	No	Left	Working Trot
+12200301	122003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+12200302	122003	1	10	C Track right; B turn right; E turn left	Serpentine	No	No	Right to Left	Working Trot
+12200303	122003	1	10	A Down centerline; D-R leg yield right	Leg Yield	Yes	No	Right	Working Trot
+12200304	122003	1	10	M working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+12200305	122003	1	10	C circle left 15m	Circle	No	No	Left	Working Canter
+12200306	122003	1	10	H-V lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+12200307	122003	1	10	VKA Develop working canter	Lengthening	No	Yes	Left	Lengthened Canter
+12200308	122003	1	10	FXH Change rein, X working trot	Transition	No	No	Left to Right	Working Canter to Working Trot
+12200309	122003	2	20	MXK Lengthen stride in trot rising	Lengthening	No	Yes	Right to Left	Lengthened Trot
+12200310	122003	1	10	A Halt 5 seconds proceed medium walk	Transition	No	No	Left	Working Trot to Halt to Medium Walk
+12200311	122003	2	20	P-S Free walk	Stretching	No	No	Left to Right	Free Walk
+12200312	122003	1	10	SHC Medium walk	Walk	No	No	Right	Medium Walk  
+12200313	122003	1	10	C working trot	Transition	No	No	Right	Working Trot
+12200314	122003	2	20	B Stretch Circle	Stretching	No	No	Right	Stretch Trot
+12200315	122003	1	10	A down centerline; D-S leg yield left	Leg Yield	Yes	No	Right	Working Trot
+12200316	122003	1	10	H working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+12200317	122003	1	10	C circle right 15m 	Circle	No	No	Right	Working Canter
+12200318	122003	1	10	M-P lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+12200319	122003	1	10	PFA Develop working caner	Transition	No	Yes	Right	Working Canter
+12200320	122003	1	10	KXM Change rein, X working trot	Transition	No	No	Right to Left	Working Canter to Working Trot
+12200321	122003	2	20	HXF Lengthen stride in trot rising; F working trot sitting	Lengthening	No	Yes	Left to Right	Lengthened Trot
+12200322	122003	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+13200301	132003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+13200302	132003	1	10	C track left, E-X half circle left 10m	Half Circle	No	No	Left	Working Trot
+13200303	132003	1	10	X-B half circle right 10m	Half Circle	No	No	Right	Working Trot
+13200304	132003	2	20	V-I leg yield right	Leg Yield	Yes	No	Right	Working Trot
+13200305	132003	1	10	C track right; MXK lengthen stride in trot rising; K working trot sitting	Lengthening	No	Yes	Right to Left	Lengthened Trot
+13200306	132003	1	10	K-P working trot	Trot	No	No	Left	Working Trot
+13200307	132003	2	20	P-I leg yield left	Leg Yield	Yes	No	Left	Working Trot
+13200308	132003	1	10	C track left; HXF lengthn stride in trot; F woring trot	Lengthening	No	Yes	Left to Right	Lengthened Trot
+13200309	132003	1	10	A halt 5 seconds proceed medium walk	Transition	No	No	Right	Working Trot to Halt to Medium Walk
+13200310	132003	1	10	A-K medium walk	Walk	No	No	Right	Medium Walk
+13200311	132003	2	20	KLB free walk	Free Walk	No	No	Right to Left	Free Walk
+13200312	132003	1	10	BRM medium walk	Walk	No	No	Left	Medium Walk
+13200313	132003	1	10	M working trot; C working canter left lead	Transition	No	No	Left	Medium Walk to Working Trot to Working Canter
+13200314	132003	1	10	S circle left 15m 	Circle	No	No	Left	Working Canter
+13200315	132003	1	10	S-K lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+13200316	132003	1	10	K working canter left lead	Lengthening	No	Yes	Left	Lengthened Canter
+13200317	132003	1	10	FXH Change rein, X change of lead through trot	Trot Change	No	No	Left to Right	Working Canter to Working Trot to Working Canter
+13200318	132003	1	10	R circle right 15m 	Circle	No	No	Right	Working Canter
+13200319	132003	1	10	R-F lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+13200320	132003	1	10	F working canter	Transition	No	Yes	Right	Working Canter
+13200321	132003	1	10	KXM change rein, X working trot	Transition	No	No	Right to Left	Working Canter to Working Trot
+13200322	132003	2	20	C stretch circle	Stretching	No	No	Left	Stretch Trot
+13200323	132003	1	10	E turn left, X turn left, G halt salute	Centerline	No	No	Left	Working Trot
+14200301	142003	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+14200302	142003	1	10	C track right; MXK lengthen stride in trot rising; K working trot 	Lengthening	No	Yes	Right to Left	Lengthened Trot
+14200303	142003	1	10	A down centerline; L circle left 10m	Circle	No	No	Left	Working Trot
+14200304	142003	2	20	X-M leg yield right	Leg Yield	Yes	No	Right	Working Trot
+14200305	142003	1	10	HXF lengthen stride in trot; F working trot	Lengthening	No	Yes	Left to Right	Lengthened Trot
+14200306	142003	1	10	A down centerline; L circle right 10m	Circle	No	No	Right	Working Trot
+14200307	142003	2	20	X-H leg yield left	Leg Yield	Yes	No	Left	Working Trot
+14200308	142003	2	20	C stretch circle	Stretching	No	No	Right	Stretch Trot
+14200309	142003	1	10	M medium walk	Transition	No	No	Right	Working Trot to Medium Walk
+14200310	142003	2	20	R-V free walk, V medium walk	Stretching	No	No	Right to Left	Free Walk
+14200311	142003	1	10	K working trot; A working canter left lead	Transition	No	No	Left	Medium Walk to Working Trot to Working Canter
+14200312	142003	1	10	A circle left 15m	Circle	No	No	Left	Working Canter
+14200313	142003	1	10	F-M lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+14200314	142003	1	10	M working canter left lead	Lengthening	No	Yes	Left	Lengthened Canter
+14200315	142003	2	20	HXK one loop maintaining the left lead	Counter Canter	No	No	Left	Working Canter
+14200316	142003	1	10	FXH change rein; X change of lead through trot	Trot Change	No	No	Left to Right	Working Canter to Working Trot to Working Canter
+14200317	142003	1	10	C circle right 15m 	Circle	No	No	Right	Working Canter
+14200318	142003	1	10	M-F lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+14200319	142003	1	10	F working canter	Lengthening	No	Yes	Right	Lengthened Canter
+14200320	142003	2	20	KXH one loop maintaining the right lead	Counter Canter	No	No	Right	Working Canter
+14200321	142003	1	10	MXK Change rein; X working trot	Transition	No	No	Right to Left	Working Canter to Working Trot
+14200322	142003	1	10	A down centerline; X halt salute	Centerline	No	No	Left	Working Trot
+21200301	212003	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+21200302	212003	1	10	C track left; HXF medium trot F collected trot	Lengthening	No	Yes	Left to Right	Medium Trot
+21200303	212003	1	10	(transitions at H and F) 	Lengthening	No	Yes	Left to Right	Medium Trot
+21200304	212003	2	20	A-X serpentine two loops width of arena	Serpentine	No	No	Serpentine	Collected Trot
+21200305	212003	1	10	X circle left 10m	Circle	No	No	Left	Collected Trot
+21200306	212003	1	10	E turn right E-H shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+21200307	212003	1	10	MXK medium trot K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+21200308	212003	1	10	(transitions at M and K)	Medium	No	Yes	Right to Left	Medium Trot
+21200309	212003	1	10	A-X serpentine two loops width of arena	Serpentine	No	No	Serpentine	Collected Trot
+21200310	212003	1	10	X circle right 10m	Circle	No	No	Right	Collected Trot
+21200311	212003	2	20	B turn left; B-M shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+21200312	212003	1	10	C halt reinback 3-4 steps proceed medium walk	Reinback	No	No	Left	Reinback
+21200313	212003	1	10	C-H medium walk	Walk	No	No	Left	Medium Walk
+21200314	212003	2	20	H-P free walk P-F medium walk	Free Walk	No	No	Left to Right	Free Walk
+21200315	212003	2	20	Before F shorten stride in walk F collected canter right lead	Transition	No	No	Right	Medium Walk to Collected Canter
+21200316	212003	1	10	A-C serpentine three equal loops width of arena no change of lead	Counter Canter	No	No	Right	Collected Canter
+21200317	212003	1	10	M-E change rein; Between quarterline and E simple change 	Lead Change	No	No	Right to Left	Collected Canter to Medium Walk to Collected Canter
+21200318	212003	1	10	V circle left 10m	Circle	No	No	Left	Collected Canter
+21200319	212003	1	10	F-R medium canter R collected canter	Medium	No	Yes	Left	Medium Canter
+21200320	212003	1	10	(transitions at F and R)	Medium	No	Yes	Left	Medium Canter
+21200321	212003	1	10	C-A serpentine three equal loops width of arena, no change of lead	Counter Canter	No	No	Left	Collected Canter
+21200322	212003	1	10	F-E change rein; between quarterline and E simple change of lead	Lead Change	No	No	Left to Right	Collected Canter to Medium Walk to Collected Canter
+21200323	212003	1	10	S circle right 10m	Circle	No	No	Right	Collected Canter
+21200324	212003	1	10	M-P medium canter P collected canter	Medium	No	Yes	Right	Medium Canter
+21200325	212003	1	10	(transitions at M and P)	Medium	No	Yes	Right	Medium Canter
+21200326	212003	1	10	A down centerline; D collected trot; X halt salute	Centerline	No	No	Right	Collected Canter to Collected Trot
+22200301	222003	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+22200302	222003	1	10	C Track right, MXK medium trot, K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+22200303	222003	1	10	(transiitons at M and K)	Medium	No	Yes	Right to Left	Medium Trot
+22200304	222003	1	10	F-B Travers left, Before B straighten, B turn left	Travers	Yes	No	Left	Collected Trot
+22200305	222003	1	10	E turn right, E-H travers right, before H straighten	Travers	Yes	No	Right	Collected Trot
+22200306	222003	2	20	C halt, reinback 3-4 steps, proceed medium walk	Reinback	No	No	Right	Reinback
+22200307	222003	1	10	C-M medium walk	Walk	No	No	Right	Medium Walk
+22200308	222003	2	20	MXF free walk	Free Walk	No	No	Right	Free Walk
+22200309	222003	1	10	F-A medium walk	Walk	No	No	Right	Medium Walk
+22200310	222003	1	10	Before A shorten stride in walk A collected canter right lead	Transition	No	No	Right	Collected Canter 
+22200311	222003	1	10	V circle right 10m	Circle	No	No	Right	Collected Canter
+22200312	222003	2	20	E turn right X simple change of lead B turn left	Lead Change	No	No	Right to Left	Collected Canter to Medium Walk to Collected Canter
+22200313	222003	2	20	R circle left 10	Circle	No	No	Left	Collected Canter 
+22200314	222003	1	10	C canter stretch circle	Stretching	No	No	Left	Collected Canter  
+22200315	222003	1	10	H-K medium canter K collected canter	Medium	No	Yes	Left	Medium Canter
+22200316	222003	1	10	(transiitons at H and K)	Medium	No	Yes	Left	Medium Canter
+22200317	222003	1	10	FLE change rein	Counter Canter	No	No	Left	Collected Canter  
+22200318	222003	1	10	ESH counter canter; H simple change of lead	Lead Change	No	No	Left to Right	Collected Canter to Medium Walk to Collected Canter
+22200319	222003	1	10	M-F medium canter F collected canter	Medium	No	Yes	Right	Medium Canter
+22200320	222003	1	10	(transitions at M and F) 	Medium	No	Yes	Right	Medium Canter
+22200321	222003	1	10	KLB change rein	Counter Canter	No	No	Right	Collected Canter  
+22200322	222003	1	10	BRM counter canter M collected trot	Transition	No	No	Right to Left	Collected Canter to Collected Trot
+22200323	222003	1	10	HXF medium trot F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+22200324	222003	1	10	(transitions at H and F)	Medium	No	Yes	Left to Right	Medium Trot
+22200325	222003	1	10	A down centerline; X halt salute	Centerline	No	No	Right	Collected Trot
+23200301	232003	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+23200302	232003	1	10	C track left; HXF medium trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+23200303	232003	1	10	(transitions at H and F) 	Medium	No	Yes	Right	Medium Trot
+23200304	232003	1	10	K-E shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+23200305	232003	1	10	E circle right 10m	Circle	No	No	Right	Collected Trot
+23200306	232003	2	20	E-H travers right	Travers	Yes	No	Right	Collected Trot
+23200307	232003	2	20	MXK medium trot; K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+23200308	232003	1	10	(transitions at M and K) 	Medium	No	Yes	Right to Left	Medium Trot
+23200309	232003	1	10	F-B shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+23200310	232003	1	10	B circle left 10m	Circle	No	No	Left	Collected Trot
+23200311	232003	2	20	B-M travers left	Travers	Yes	No	Left	Collected Trot
+23200312	232003	1	10	C halt, reinback 3-4 steps, proceed medium walk 	Reinback	No	No	Left	Reinback
+23200313	232003	1	10	H turn left; Between G and M half turn on haunches left	Walk Pirouette	No	No	Left	Medium Walk
+23200314	232003	1	10	Between G and H half turn on haunches right; M turn right	Walk Pirouette	No	No	Right	Medium Walk
+23200315	232003	1	10	(medium walk) 	Walk	No	No	Right	Medium Walk
+23200316	232003	2	20	M-R medium walk; R-K free walk	Free Walk	No	No	Right to Left	Free Walk
+23200317	232003	1	10	K-A medium walk	Walk	No	No	Left	Medium Walk
+23200318	232003	1	10	Before A shorten stride in walk; A collected canter left lead	Transition	No	No	Left	Medium Walk to Collected Canter
+23200319	232003	1	10	P circle left 10m	Circle	No	No	Left	Collected Canter
+23200320	232003	2	20	Between P and B simple change of lead	Lead Change	No	No	Left to Right	Collected Canter to Medium Walk to Collected Canter
+23200321	232003	1	10	R-S half circle 20m in counter canter	Counter Canter	No	No	Right	Collected Canter
+23200322	232003	2	20	S-F medium canter; F collected canter	Medium	No	Yes	Right	Medium Canter
+23200323	232003	1	10	(transitions at S and F)	Medium	No	Yes	Right	Medium Canter
+23200324	232003	2	20	V circle right 10m 	Circle	No	No	Right	Collected Canter
+23200325	232003	1	10	Between V and E simple change of lead	Lead Change	No	No	Right to Left	Collected Canter to Medium Walk to Collected Canter
+23200326	232003	1	10	S-R half circle 20m in counter canter	Counter Canter	No	No	Left	Collected Canter
+23200327	232003	2	20	R-K medium canter; K collected canter	Medium	No	Yes	Left	Medium Canter
+23200328	232003	1	10	(transitions at R and K)	Medium	No	Yes	Left	Medium Canter
+23200329	232003	1	10	A canter stretch circle	Stretching	No	No	Left	Collected Canter
+23200330	232003	1	10	F collected trot	Transition	No	No	Left	Collected Canter to Collected Trot
+23200331	232003	1	10	B turn left; X turn right; G halt salute	Centerline	No	No	Left to Right	Collected Trot
+24200301	242003	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+24200302	242003	1	10	I circle left 10m	Circle	No	No	Left	Collected Trot
+24200303	242003	1	10	I circle right 10m	Circle	No	No	Right	Collected Trot
+24200304	242003	1	10	C track right; MXK medium trot; K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+24200305	242003	1	10	(transitions at M and K)	Medium	No	Yes	Right to Left	Medium Trot
+24200306	242003	1	10	F-P shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+24200307	242003	1	10	Between P and B develop renvers right	Renvers	Yes	No	Left	Collected Trot
+24200308	242003	2	20	B-M renvers right	Renvers	Yes	No	Left	Collected Trot
+24200309	242003	1	10	HXF medium trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+24200310	242003	1	10	(transitions at H and F)	Medium	No	Yes	Left to Right	Medium Trot
+24200311	242003	1	10	K-V shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+24200312	242003	1	10	Between V and E develop renvers left	Renvers	Yes	No	Right	Collected Trot
+24200313	242003	2	20	E-H renvers left	Renvers	Yes	No	Right	Collected Trot
+24200314	242003	2	20	C Halt, reinback 3-4 steps, proceed to medium walk	Reinback	No	No	Right	Reinback
+24200315	242003	2	20	Before R shoten stride in walk; R half turn on haunches right	Walk Pirouette	No	No	Right	Medium Walk
+24200316	242003	2	20	Before C shorten stride in walk; C half turn on haunches left	Walk Pirouette	No	No	Left	Medium Walk
+24200317	242003	1	10	(medium walk) CMRMCM	Walk	No	No	Left	Medium Walk
+24200318	242003	2	20	M-V free walk	Free Walk	No	No	Left	Free Walk
+24200319	242003	1	10	V-K medium walk	Walk	No	No	Left	Medium Walk
+24200320	242003	1	10	Before K shorten stride in walk, K collected canter left lead	Transition	No	No	Left	Medium Walk to Collected Canter
+24200321	242003	2	20	(first simple change serpentine)	Lead Change	No	No	Left to Right	Collected Canter to Medium Walk to Collected Canter
+24200322	242003	2	20	(second simple change serpentine)	Lead Change	No	No	Right to Left	Collected Canter to Medium Walk to Collected Canter
+24200323	242003	1	10	(quality of serpentine)	Serpentine	No	No	Left	Collected Canter  
+24200324	242003	1	10	H-K medium canter; K collected canter	Medium	No	Yes	Left	Medium Canter
+24200325	242003	1	10	(transitions at H and K)	Medium	No	Yes	Left	Medium Canter
+24200326	242003	1	10	A down centerline; L circle left 10m	Circle	No	No	Left	Collected Canter  
+24200327	242003	1	10	X simple change of lead	Lead Change	No	No	Left to Right	Collected Canter to Medium Walk to Collected Canter
+24200328	242003	1	10	I cricle right 10m; C track right	Circle	No	No	Right	Collected Canter  
+24200329	242003	1	10	M-F medium canter; F collected canter	Medium	No	Yes	Right	Medium Canter
+24200330	242003	1	10	(transitions at M and F)	Medium	No	Yes	Right	Medium Canter
+24200331	242003	2	20	A canter stretch circle	Stretching	No	No	Right	Collected Canter  
+24200332	242003	1	10	K collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+24200333	242003	1	10	E turn right; X turn left	Centerline	No	No	Right to Left	Collected Trot
+24200334	242003	1	10	G halt salute	Centerline	No	No	Straight	Collected Trot
+31200701	312007	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+31200702	312007	1	10	C track left; S-V shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+31200703	312007	2	20	V-L half circle left 10m; L-S half pass left	Half Pass	Yes	No	Left	Collected Trot
+31200704	312007	1	10	R-P shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+31200705	312007	2	20	P-L half circle 10m; L-R half pass right	Half Pass	Yes	No	Right	Collected Trot
+31200706	312007	1	10	HXF medium trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+31200707	312007	1	10	A halt rein back four steps proceed medium walk 	Reinback	No	No	Right	Reinback
+31200708	312007	2	20	K-R extended walk	Extended	No	Yes	Right to Left	Extended Walk
+31200709	312007	2	20	R medium walk M turn left between G and H half turn on the haunches left	Walk pirouette	No	No	Left	Medium Walk
+31200710	312007	2	20	Between G and M half turn on the haunches right H track right H-C medium walk	Walk pirouette	No	No	Right	Medium Walk
+31200711	312007	1	10	(medium walk)	Walk	No	No	Right	Medium Walk
+31200712	312007	1	10	Before C shorten stride in walk; C collected canter right lead	Transition	No	No	Right	Medium Walk to Collected Canter
+31200713	312007	1	10	M-F medium canter F collected canter	Medium	No	Yes	Right	Medium Canter
+31200714	312007	1	10	V circle right 10m	Circle	No	No	Right	Collected Canter
+31200715	312007	2	20	V-R change rein flying change between centerline and R	Lead Change	No	No	Right to Left	Collected Canter
+31200716	312007	1	10	C circle left 10m showing a clear release of inside rein for 4-5 strides over centerline	Self Carriage	No	No	Left	Collected Canter
+31200717	312007	1	10	H-K extended canter K collected canter	Extended	No	Yes	Left	Extended Canter
+31200718	312007	1	10	(transition at H and K) 	Extended	No	Yes	Left	Extended Canter
+31200719	312007	1	10	P circle left 10m	Circle	No	No	Left	Collected Canter
+31200720	312007	2	20	P-S change rein flying change between centerline and S	Lead Change	No	No	Left to Right	Collected Canter
+31200721	312007	1	10	C collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+31200722	312007	1	10	MXK extended trot K collected trot	Extended	No	Yes	Right to Left	Extended Trot
+31200723	312007	1	10	A down centerline; X halt salute	Centerline	No	No	Left	Collected Trot
+32200701	322007	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+32200702	322007	1	10	C track right; MXK medium trot; K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+32200703	322007	2	20	F-B shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+32200704	322007	1	10	B-G half pass left; G straight ahead; C track left	Half pass	Yes	No	Left	Collected Trot
+32200705	322007	1	10	HXF extended trot; F collected trot	Extended	No	Yes	Left to Right	Extended Trot
+32200706	322007	1	10	(transitions at H and F)	Extended	No	Yes	Left to Right	Extended Trot
+32200707	322007	2	20	K-E shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+32200708	322007	1	10	E-G half pass right; G straight ahead	Half pass	Yes	No	Right	Collected Trot
+32200709	322007	1	10	C track right, before M medium walk	Transition	No	No	Right	Collected Trot to Medium Walk
+32200710	322007	1	10	M turn right; Between G and H half turn on haunches right	Walk pirouette	No	No	Right	Medium Walk
+32200711	322007	1	10	Between G and M half turn on the haunches right H track right H-C medium walk	Walk pirouette	No	No	Left	Medium Walk
+32200712	322007	1	10	(medium walk)	Walk	No	No	Left	Medium Walk
+32200713	322007	2	20	S-P extended walk P-F medium walk	Extended	No	Yes	Left to Right	Extended Walk
+32200714	322007	1	10	Before F shorten stride F collected canter right lead	Transition	No	No	Right	Medium Walk to Collected Canter
+32200715	322007	1	10	A down centerline D-R half pass right	Half Pass	Yes	No	Right	Collected Canter
+32200716	322007	2	20	Between R and M flying change	Lead Change	No	No	Right to Left	Collected Canter
+32200717	322007	1	10	H-K medium canter K collected canter	Medium	No	Yes	Left	Medium Canter
+32200718	322007	1	10	A down centerline D-S half pass left	Half pass	Yes	No	Left	Collected Canter
+32200719	322007	2	20	Between S and H flying change	Lead Change	No	No	Left to Right	Collected Canter
+32200720	322007	2	20	C circle right 20m showing clear release of inside rein for 4-5 strides over centerline 	Self Carriage	No	No	Right	Collected Canter
+32200721	322007	1	10	M-F extended canter F collected canter	Extended	No	Yes	Right	Extended Canter
+32200722	322007	1	10	(transitions at M and F)	Extended	No	Yes	Right	Extended Canter
+32200723	322007	1	10	A down centerline; L collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+32200724	322007	1	10	X halt salute	Centerline	No	No	Straight	Collected Trot
+33200701	332007	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+33200702	332007	1	10	C track left; HXF medium trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+33200703	332007	1	10	K-E shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+33200704	332007	1	10	E-X half circle right 10m; X-B half circle right 10m	Serpentine	No	No	Right to Left	Collected Trot
+33200705	332007	2	20	B-G half pass left; C track right	Half Pass	Yes	No	Left	Collected Trot
+33200706	332007	1	10	MXK extended trot K collected trot	Extended	No	Yes	Right to Left	Extended Trot
+33200707	332007	1	10	(transitions at M and K)	Extended	No	Yes	Right to Left	Extended Trot
+33200708	332007	1	10	A halt rein back four steps proceed collected trot	Reinback	No	No	Left	Reinback
+33200709	332007	1	10	F-B shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+33200710	332007	1	10	B-X half circle left 10m; X-E half circle right 10m	Serpentine	No	No	Left to Right	Collected Trot
+33200711	332007	2	20	E-G half pass right; G straight ahead	Half Pass	Yes	No	Right	Collected Trot
+33200712	332007	1	10	Between C and H medium walk; H turn left	Transition	No	No	Left	Collected Trot to Medium Walk
+33200713	332007	1	10	Between G and M half turn on the haunches left	Walk pirouette	No	No	Left	Medium Walk
+33200714	332007	1	10	Between G and H half turn on haunches right; M turn right	Walk pirouette	No	No	Right	Medium Walk
+33200715	332007	1	10	(medium walk)	Walk	No	No	Right	Medium Walk
+33200716	332007	2	20	R-V extended walk V-K medium walk	Extended	No	Yes	Right to Left	Extended Walk
+33200717	332007	1	10	K collected canter left lead	Transition	No	No	Left	Medium Walk to Collected Canter
+33200718	332007	2	20	A down centerline; L-S half pass left; S-H counter canter	Half Pass	Yes	No	Left	Collected Canter
+33200719	332007	2	20	H flying change	Lead Change	No	No	Left to Right	Collected Canter
+33200720	332007	1	10	M-F medium canter; F collected canter	Medium	No	Yes	Right	Medium Canter
+33200721	332007	2	20	A down centerline; L-R half pass right; R-M counter canter	Half Pass	Yes	No	Right	Collected Canter
+33200722	332007	2	20	M flying change	Lead Change	No	No	Right to Left	Collected Canter
+33200723	332007	1	10	C circle left 20m clearly giving both reins for 4-5 strides over centerline	Self Carriage	No	No	Left	Collected Canter
+33200724	332007	1	10	H-K extended canter K collected canter	Extended	No	Yes	Left	Extended Canter
+33200725	332007	1	10	(transitions H and K)	Extended	No	Yes	Left	Extended Canter
+33200726	332007	1	10	A down centerline X collected trot	Transition	No	No	Left	Collected Canter to Collected Trot
+33200727	332007	1	10	G halt salute	Centerline	No	No	Straight	Collected Trot
+41200701	412007	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+41200702	412007	2	20	C track left; HXF medium trot, over X 6-7 stps of collected trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+41200703	412007	1	10	A down centerline D-B half pass right	Half Pass	Yes	No	Right	Collected Trot
+41200704	412007	1	10	B-G half pass left; C track right	Half Pass	Yes	No	Left	Collected Trot
+41200705	412007	1	10	MXK Extended trot K collected trot	Extended	No	Yes	Right to Left	Extended Trot
+41200706	412007	1	10	(transitions at M and K)	Extended	No	No	Right to Left	Extended Trot
+41200707	412007	2	20	F-B shoulder-in left,B turn left 	Shoulder-in	Yes	No	Left	Collected Trot
+41200708	412007	1	10	X halt, reinback four steps proceed collected trot	Reinback	No	No	Straight	Reinback
+41200709	412007	2	20	E turn right E-H shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+41200710	412007	1	10	C collected walk	Transition	No	No	Right	Collected Trot to Collected Walk
+41200711	412007	1	10	M turn right Between G and H half pirouette right	Walk pirouette	No	No	Right	Collected Walk
+41200712	412007	1	10	Between G and M half pirouette left, H turn left	Walk pirouette	No	No	Left	Collected Walk
+41200713	412007	1	10	(collected walk)	Walk	No	No	Left	Collected Walk
+41200714	412007	2	20	S-P extended walk P-F collected walk	Extended	No	Yes	Left to Right	Extended Walk
+41200715	412007	1	10	F collected canter right lead	Transition	No	No	Right	Collected Walk to Collected Canter
+41200716	412007	1	10	A down centerline; L-R half pass right 	Half Pass	Yes	No	Right	Collected Canter
+41200717	412007	1	10	R-M counter canter; M flying change	Lead Change	No	No	Right to Left	Collected Canter
+41200718	412007	2	20	C circle left 20m 5-6 strides of very collected canter between quarterlines	Pirouette	No	No	Left	Collected Canter
+41200719	412007	1	10	H-K medium canter; K collected canter	Medium	No	Yes	Left	Medium Canter
+41200720	412007	1	10	A down centerline, L-S half pass left	Half Pass	Yes	No	Left	Collected Canter
+41200721	412007	1	10	S-H counter canter, H flying change	Lead Change	No	No	Left to Right	Collected Canter
+41200722	412007	1	10	M-F extended canter F collected canter	Extended	No	Yes	Right	Extended Canter
+41200723	412007	1	10	(transitions at M and F)	Extended	No	Yes	Right	Extended Canter
+41200724	412007	2	20	KLB flying change at L	Lead Change	No	No	Right to Left	Collected Canter
+41200725	412007	2	20	BIH flying change at I	Lead Change	No	No	Left to Right	Collected Canter
+41200726	412007	1	10	C collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+41200727	412007	1	10	R turn right I turn right G halt salute	Centerline	No	No	Right	Collected Trot
+50200901	502009	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+50200902	502009	1	10	C track right MXK medium trot K collected trot	Medium	No	Yes	Right to Left	Medium Trot
+50200903	502009	1	10	FB shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+50200904	502009	1	10	B volte left	Circle	No	No	Left	Collected Trot
+50200905	502009	2	20	BG half pass left G on center line C track left	Half Pass	Yes	No	Left	Collected Trot
+50200906	502009	1	10	HXF extended trot; F collected trot	Extended	No	Yes	Left to Right	Extended Trot
+50200907	502009	1	10	(transitions at H and F)	Extended	No	Yes	Left to Right	Extended Trot
+50200908	502009	1	10	KE shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+50200909	502009	1	10	E volte right	Circle	No	No	Right	Collected Trot
+50200910	502009	2	20	EG half pass right G on centerline	Half Pass	Yes	No	Right	Collected Trot
+50200911	502009	1	10	Before C collected walk C track left H turn left between G and M half pirouette left	Walk pirouette	No	No	Left	Collected Walk
+50200912	502009	1	10	Between G and H half pirouette right	Walk pirouette	No	No	Right	Collected Walk
+50200913	502009	2	20	(collected walk)	Walk	No	No	Right	Collected Walk
+50200914	502009	2	20	MRXV extended walk	Extended	No	Yes	Right to Left	Extended Walk
+50200915	502009	1	10	Before K colleted walk K proceed in collected canter left	Transition	No	No	Left	Collected Walk to Collected Canter
+50200916	502009	1	10	FX half pass left X flying change	Zig-zag	Yes	No	Left	Collected Canter
+50200917	502009	1	10	XM half pass right M flying change MCH collected canter	Zig-zag	Yes	No	Right	Collected Canter
+50200918	502009	2	20	H proceed towards X in collected canter, approaching X half pirouette left	Pirouette	No	No	Left	Collected Canter
+50200919	502009	1	10	HC counter canter C flying change	Lead Change	No	No	Left to Right	Collected Canter
+50200920	502009	2	20	M proceed towards X in collected canter, approaching X half pirouette right	Pirouette	No	No	Right	Collected Canter
+50200921	502009	1	10	MC counter canter C flying change	Lead Change	No	No	Right to Left	Collected Canter
+50200922	502009	1	10	HXF five four tempis	Lead Change	No	No	Left to Right	Collected Canter
+50200923	502009	1	10	KXM five three tempis	Lead Change	No	No	Right to Left	Collected Canter
+50200924	502009	1	10	HXF Extended canter	Extended	No	Yes	Left to Right	Extended Canter
+50200925	502009	1	10	F collected canter and flying change	Lead Change	No	No	Left to Right	Collected Canter
+50200926	502009	1	10	A down centerline X halt salute	Centerline	No	No	Right	Collected Canter
+70200901	702009	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+70200902	702009	1	10	C track left HXF extended trot	Extended	No	Yes	Left to Right	Extended Trot
+70200903	702009	2	20	A down centerline, DG 3 half passes to quarterline C track right	Zig-zag	Yes	No	Straight	Collected Trot
+70200904	702009	1	10	Between M and R transition to passage	Passage	No	No	Right	Passage
+70200905	702009	1	10	RE on the diagonal	Passage	No	No	Right to Left	Passage
+70200906	702009	1	10	Crossing centerline Piaffe 8-10 steps	Piaffe	No	No	Straight	Piaffe
+70200907	702009	1	10	In/out of piaffe	Transition	No	No	Straight	Passage to Piaffe to Passage
+70200908	702009	1	10	EVL passage	Passage	No	No	Left	Passage
+70200909	702009	1	10	L piaffe 8-10 steps	Piaffe	No	No	Straight	Piaffe
+70200910	702009	1	10	L transitions in and out of piaffe	Transition	No	No	Straight	Passage to Piaffe to Passage
+70200911	702009	1	10	LP passage	Passage	No	No	Straight	Passage
+70200912	702009	2	20	PBS extended walk	Extended	No	Yes	Left to Right	Extended Walk
+70200913	702009	2	20	SHC collected walk	Walk	No	No	Right	Collected Walk
+70200914	702009	1	10	C collected canter right lead	Transition	No	No	Right	Collected Walk to Collected Canter
+70200915	702009	1	10	MXK medium canter, K collected canter and flying change	Medium	No	Yes	Right to Left	Medium Canter
+70200916	702009	1	10	PX half pass left X on centerline	Half Pass	Yes	No	Left	Collected Canter
+70200917	702009	2	20	I pirouette to the left C track left	Pirouette	No	No	Left	Collected Canter
+70200918	702009	1	10	HXF extended canter	Extended	No	Yes	Left to Right	Extended Canter
+70200919	702009	1	10	F collected canter flying change	Lead Change	No	No	Left to Right	Collected Canter
+70200920	702009	1	10	VX half pass right X on centerline	Half Pass	Yes	No	Right	Collected Canter
+70200921	702009	2	20	I pirouette to the right C track right	Pirouette	No	No	Right	Collected Canter
+70200922	702009	1	10	MXK seven two tempis	Lead Change	No	No	Right to Left	Collected Canter
+70200923	702009	1	10	FXH eleven one tempis	Lead Change	No	No	Left to Right	Collected Canter
+70200924	702009	1	10	C collected trot MXK extended trot	Extended	No	Yes	Right to Left	Extended Trot
+70200925	702009	1	10	Transitions at C M K	Extended	No	Yes	Right to Left	Extended Trot
+70200926	702009	1	10	A down centerline LI passage	Passage	No	No	Left	Passage
+70200927	702009	1	10	I halt salute	Centerline	No	No	Straight	Passage
+80200901	802009	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+80200902	802009	1	10	C track left HXF extended trot	Extended	No	Yes	Left to Right	Extended Trot
+80200903	802009	2	20	KB Half pass right	Half Pass	Yes	No	Right	Collected Trot
+80200904	802009	2	20	BH half pass left	Half Pass	Yes	No	Left	Collected Trot
+80200905	802009	1	10	C Halt, reinback 5 steps proceed collected trot	Reinback	No	No	Right	Reinback
+80200906	802009	1	10	MV extended trot	Extended	No	Yes	Right to Left	Extended Trot
+80200907	802009	1	10	VKD passage	Passage	No	No	Left	Passage
+80200908	802009	1	10	D piaffe 12-15 steps	Piaffe	No	No	Left	Piaffe
+80200909	802009	1	10	Transitions piaffe and passage	Transition	No	No	Left	Passage to Piaffe to Passage
+80200910	802009	1	10	DFP passage	Passage	No	No	Left	Passage
+80200911	802009	2	20	PH extended walk	Extended	No	Yes	Left to Right	Extended Walk
+80200912	802009	2	20	HCM collected walk	Walk	No	No	Right	Collected Walk
+80200913	802009	1	10	M proceed in passage	Transition	No	No	Right	Collected Walk to Passage
+80200914	802009	1	10	MRI passage	Passage	No	No	Right	Passage
+80200915	802009	1	10	I piaffe	Piaffe	No	No	Straight	Piaffe
+80200916	802009	1	10	Transitions piaffe and passage	Transition	No	No	Straight	Passage to Piaffe to Passage
+80200917	802009	1	10	ISE passage	Passage	No	No	Left	Passage
+80200918	802009	1	10	E proceed in collected canter left	Transition	No	No	Left	Passage to Canter
+80200919	802009	1	10	FXH 9 two tempis	Lead Change	No	No	Left to Right	Collected Canter
+80200920	802009	1	10	MXK extended canter  K collected canter	Extended	No	Yes	Right to Left	Collected Canter
+80200921	802009	1	10	K collected canter and flying change of lead	Lead Change	No	No	Right to Left	Collected Canter
+80200922	802009	2	20	A down centerline zig zag	Zig-zag	Yes	No	Left to Right	Collected Canter
+80200923	802009	2	20	MXK 15 one tempis	Lead Change	No	No	Right to Left	Collected Canter
+80200924	802009	2	20	A down centerline L pirouette to the left	Pirouette	No	No	Left	Collected Canter
+80200925	802009	1	10	X flying change	Lead Change	No	No	Left to Right	Collected Canter
+80200926	802009	2	20	I pirouette to the right C track to the right	Pirouette	No	No	Right	Collected Canter
+80200927	802009	1	10	M transition to collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+80200928	802009	1	10	RK extended trot KA collected trot	Extended	No	No	Right to Left	Extended Trot
+80200929	802009	1	10	A down centerline DX passage	Passage	No	No	Left	Passage
+80200930	802009	1	10	X piaffe 12 to 15 steps	Piaffe	No	No	Straight	Piaffe
+80200931	802009	1	10	Transitions piaffe and passage	Transition	No	No	Straight	Passage to Piaffe to Passage
+80200932	802009	1	10	XG passage	Passage	No	No	Straight	Passage
+80200933	802009	1	10	G halt salute	Centerline	No	No	Straight	Passage
+41201101	412011	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+41201102	412011	2	20	C track left; HXF medium trot, over X 6-7 stps of collected trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+41201103	412011	1	10	KX half pass right	Half Pass	Yes	No	Right	Collected Trot
+41201104	412011	1	10	X circle right 10m	Circle	No	No	Left	Collected Trot
+41201105	412011	1	10	X-G shoulder-in right C track right	Shoulder-in	Yes	Yes	Right to Left	Collected Trot
+41201106	412011	1	10	MXK Extended Trot	Extended	No	No	Right to Left	Extended Trot
+41201107	412011	1	10	(transitions at M and K)	Extended	No	No	Left	Extended Trot
+41201108	412011	1	10	FX half pass left	Half Pass	Yes	No	Straight	Collected Trot
+41201109	412011	1	10	X circle left 10m	Circle	No	No	Right	Collected Trot
+41201110	412011	1	10	XG shoulder-in left C turn left	Shoulder-in	Yes	No	Right	Collected Trot
+41201111	412011	1	10	S collected walk S-R half circle in collected walk	Transition	No	No	Left	Collected Trot to Collected Walk
+41201112	412011	2	20	RS half circle in extended walk	Extended	No	Yes	Left	Extended Walk
+41201113	412011	1	10	S-E collected walk E half pirouette left proceed collected walk	Walk pirouette	No	No	Left	Collected Walk
+41201114	412011	1	10	S half pirouette right proceed collected walk S-E collected walk	Walk pirouette	No	No	Right	Collected Walk
+41201115	412011	1	10	E collected canter left lead	Transition	No	No	Left	Collected Walk to Collected Canter
+41201116	412011	1	10	A down centerline D-E half pass left	Half Pass	Yes	No	Left	Collected Canter
+41201117	412011	1	10	E-C counter canter, C flying change	Lead Change	No	No	Left to Right	Collected Canter
+41201118	412011	1	10	M-F medium canter F collected canter	Medium	No	Yes	Right	Medium Canter
+41201119	412011	1	10	A down centerline D-E half pass left	Half Pass	Yes	No	Right	Collected Canter
+41201120	412011	1	10	B-C counter canter C flying change of lead	Lead Change	No	No	Right to Left	Collected Canter
+41201121	412011	2	20	C circle left 20m 5-6 strides of very collected canter over centerline	Pirouette	No	No	Left	Collected Canter
+41201122	412011	1	10	H-K extended canter; K collected canter	Extended	No	Yes	Left	Extended Canter
+41201123	412011	1	10	(transitions at H and K)	Extended	No	Yes	Left	Extended Canter
+41201124	412011	1	10	A down centerline, X halt salute	Centerline	No	No	Left	Collected Canter
+42201101	422011	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+42201102	422011	1	10	C track right M-B shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+42201103	422011	1	10	B-K medium trot	Medium	No	Yes	Right to Left	Medium Trot
+42201104	422011	2	20	A down centerline D-E half pass left	Half Pass	Yes	No	Left	Collected Trot
+42201105	422011	2	20	E-G half pass right C track left	Half Pass	Yes	No	Right	Collected Trot
+42201106	422011	1	10	H-E shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+42201107	422011	1	10	E-F medium trot 	Medium	No	Yes	Left to Right	Medium Trot
+42201108	422011	2	20	A collected walk KXH extended walk	Extended	No	Yes	Right	Extended Walk
+42201109	422011	1	10	C half pirouette right	Walk pirouette	No	No	Right	Collected Walk
+42201110	422011	1	10	H half pirouette left	Walk pirouette	No	No	Left	Collected Walk
+42201111	422011	1	10	(collected walk)	Walk	No	No	Left	Collected Walk
+42201112	422011	1	10	C collected canter right lead	Transition	No	No	Right	Collected Walk to Collected Canter
+42201113	422011	1	10	M-F medium canter	Medium	No	Yes	Right	Collected Canter
+42201114	422011	2	20	K-X on diagonal near X working half pirouette to the right	Pirouette	No	No	Right	Collected Canter
+42201115	422011	1	10	Before K flying change	Lead Change	No	No	Right to Left	Collected Canter
+42201116	422011	1	10	F-M extended canter	Extended	No	Yes	Left	Extended Canter
+42201117	422011	1	10	(transitions at F and M)	Extended	No	Yes	Left	Extended Canter
+42201118	422011	2	20	H-X on diagonal near X working half pirouette to the left	Pirouette	No	No	Left	Collected Canter
+42201119	422011	1	10	Before H flying change	Lead Change	No	No	Left to Right	Collected Canter
+42201120	422011	1	10	MXK three single flying changes one at quarterline centerline second quarterline	Lead Change	No	No	Right to Left	Collected Canter
+42201121	422011	1	10	A collected trot  	Transition	No	No	Left	Collected Canter to Collected Trot
+42201122	422011	1	10	FXH extended trot	Extended	No	Yes	Left to Right	Extended Trot
+42201123	422011	1	10	(Transitions at F and H)	Extended	No	Yes	Left to Right	Extended Trot
+42201124	422011	1	10	R turn right I turn right G halt salute	Centerline	No	No	Right	Collected Trot
+60200901	602009	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+60200902	602009	1	10	C track left HXF extended trot	Extended	No	Yes	Left to Right	Extended Trot
+60200903	602009	1	10	A down centerline DX shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+60200904	602009	1	10	X volte right	Circle	No	No	Right	Collected Trot
+60200905	602009	2	20	XM half pass right	Half Pass	Yes	No	Right	Collected Trot
+60200906	602009	1	10	C halt rein back 5 steps 	Reinback	No	No	Left	Reinback
+60200907	602009	2	20	HX half pass left	Half Pass	Yes	No	Left	Collected Trot
+60200908	602009	1	10	X colte left	Circle	No	No	Left	Collected Trot
+60200909	602009	1	10	XD shoulder-in left A track right	Shoulder-in	Yes	No	Left	Collected Trot
+60200910	602009	1	10	KR medium trot	Medium	No	Yes	Left to Right	Medium Trot
+60200911	602009	2	20	RMGH collected walk	Transition	No	No	Right	Collected Trot to Collected Walk
+60200912	602009	2	20	HBP extended walk	Extended	No	Yes	Right	Extended Walk
+60200913	602009	1	10	P collected canter right lead	Transition	No	No	Right	Collected Walk to Collected Canter
+60200914	602009	2	20	A down centerline zig zag	Zig-zag	Yes	No	Right to Left	Collected Canter
+60200915	602009	1	10	HXF extended canter	Extended	No	Yes	Left to Right	Extended Canter
+60200916	602009	1	10	F collected canter and flying change	Lead Change	No	No	Left to Right	Collected Canter
+60200917	602009	1	10	KXM 5 three tempis	Lead Change	No	No	Right to Left	Collected Canter
+60200918	602009	2	20	HB on diagonal I pirouette to the left	Pirouette	No	No	Left	Collected Canter
+60200919	602009	1	10	B flying change	Lead Change	No	No	Left to Right	Collected Canter
+60200920	602009	2	20	BK on diagonal L pirouette to the right	Pirouette	No	No	Right	Collected Canter
+60200921	602009	1	10	K flying change 	Lead Change	No	No	Right to Left	Collected Canter
+60200922	602009	1	10	FXH 7 two tempis	Lead Change	No	No	Left to Right	Collected Canter
+60200923	602009	1	10	CM collected trot MXK extended trot	Extended	No	Yes	Right to Left	Extended Trot
+60200924	602009	1	10	(transitions at C M and K)	Extended	No	Yes	Right to Left	Extended Trot
+60200925	602009	1	10	A down centerline X halt salute	Centerline	No	No	Left	Collected Trot
+70201401	702014	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+70201402	702014	1	10	C track left HXF extended trot	Extended	No	Yes	Left to Right	Extended Trot
+70201403	702014	2	20	A down centerline, DG 3 half passes to quarterline C track right	Zig-zag	Yes	No	Straight	Collected Trot
+70201404	702014	1	10	Between R and B transition to passage	Passage	No	No	Right	Passage
+70201405	702014	1	10	BV on the diagonal	Passage	No	No	Right to Left	Passage
+70201406	702014	1	10	Crossing centerline Piaffe 8-10 steps	Piaffe	No	No	Straight	Piaffe
+70201407	702014	1	10	In/out of piaffe	Transition	No	No	Straight	Passage to Piaffe to Passage
+70201408	702014	1	10	VKA passage	Passage	No	No	Left	Passage
+70201409	702014	1	10	A piaffe 8-10 steps	Piaffe	No	No	Straight	Piaffe
+70201410	702014	1	10	A transitions in and out of piaffe	Transition	No	No	Straight	Passage to Piaffe to Passage
+70201411	702014	1	10	AFP passage	Passage	No	No	Straight	Passage
+70201412	702014	2	20	PS extended walk	Extended	No	Yes	Left to Right	Extended Walk
+70201413	702014	2	20	SHC collected walk	Walk	No	No	Right	Collected Walk
+70201414	702014	1	10	C collected canter right lead	Transition	No	No	Right	Collected Walk to Collected Canter
+70201415	702014	1	10	MXK medium canter, K collected canter and flying change	Medium	No	Yes	Right to Left	Medium Canter
+70201416	702014	1	10	PX half pass left X on centerline	Half Pass	Yes	No	Left	Collected Canter
+70201417	702014	2	20	I pirouette to the left C track left	Pirouette	No	No	Left	Collected Canter
+70201418	702014	1	10	HXF extended canter	Extended	No	Yes	Left to Right	Extended Canter
+70201419	702014	1	10	F collected canter flying change	Lead Change	No	No	Left to Right	Collected Canter
+70201420	702014	1	10	VX half pass right X on centerline	Half Pass	Yes	No	Right	Collected Canter
+70201421	702014	2	20	I pirouette to the right C track right	Pirouette	No	No	Right	Collected Canter
+70201422	702014	1	10	MXK seven two tempis	Lead Change	No	No	Right to Left	Collected Canter
+70201423	702014	1	10	FXH eleven one tempis	Lead Change	No	No	Left to Right	Collected Canter
+70201424	702014	1	10	C collected trot MXK extended trot	Extended	No	Yes	Right to Left	Extended Trot
+70201425	702014	1	10	Transitions at C M K	Extended	No	Yes	Right to Left	Extended Trot
+70201426	702014	1	10	A down centerline LI passage	Passage	No	No	Left	Passage
+70201427	702014	1	10	I halt salute	Centerline	No	No	Straight	Passage
+80201401	802014	1	10	A enter collected canter; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Canter
+80201402	802014	1	10	C track left HXF extended trot	Extended	No	Yes	Left to Right	Extended Trot
+80201403	802014	2	20	KB Half pass right	Half Pass	Yes	No	Right	Collected Trot
+80201404	802014	2	20	BH half pass left	Half Pass	Yes	No	Left	Collected Trot
+80201405	802014	1	10	C Halt, reinback 5 steps proceed collected trot	Reinback	No	No	Right	Reinback
+80201406	802014	1	10	MV extended trot	Extended	No	Yes	Right to Left	Extended Trot
+80201407	802014	1	10	VKD passage	Passage	No	No	Left	Passage
+80201408	802014	1	10	D piaffe 12-15 steps	Piaffe	No	No	Left	Piaffe
+80201409	802014	2	20	Transitions piaffe and passage	Transition	No	No	Left	Passage to Piaffe to Passage
+80201410	802014	1	10	DFP passage	Passage	No	No	Left	Passage
+80201411	802014	2	20	PH extended walk	Extended	No	Yes	Left to Right	Extended Walk
+80201412	802014	2	20	HCM collected walk	Walk	No	No	Right	Collected Walk
+80201413	802014	1	10	M proceed in passage	Transition	No	No	Right	Collected Walk to Passage
+80201414	802014	1	10	MRI passage	Passage	No	No	Right	Passage
+80201415	802014	1	10	I piaffe	Piaffe	No	No	Straight	Piaffe
+80201416	802014	1	10	Transitions piaffe and passage	Transition	No	No	Straight	Passage to Piaffe to Passage
+80201417	802014	1	10	ISE passage	Passage	No	No	Left	Passage
+80201418	802014	1	10	E proceed in collected canter left	Transition	No	No	Left	Passage to Canter
+80201419	802014	1	10	FXH 9 two tempis	Lead Change	No	No	Left to Right	Collected Canter
+80201420	802014	1	10	MXK extended canter  K collected canter	Extended	No	Yes	Right to Left	Collected Canter
+80201421	802014	1	10	K collected canter and flying change of lead	Lead Change	No	No	Right to Left	Collected Canter
+80201422	802014	2	20	A down centerline zig zag	Zig-zag	Yes	No	Left to Right	Collected Canter
+80201423	802014	2	20	MXK 15 one tempis	Lead Change	No	No	Right to Left	Collected Canter
+80201424	802014	2	20	A down centerline L pirouette to the left	Pirouette	No	No	Left	Collected Canter
+80201425	802014	1	10	X flying change	Lead Change	No	No	Left to Right	Collected Canter
+80201426	802014	2	20	I pirouette to the right C track to the right	Pirouette	No	No	Right	Collected Canter
+80201427	802014	1	10	M transition to collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+80201428	802014	1	10	RK extended trot KA collected trot	Extended	No	No	Right to Left	Extended Trot
+80201429	802014	1	10	A down centerline DX passage	Passage	No	No	Left	Passage
+80201430	802014	1	10	X piaffe 12 to 15 steps	Piaffe	No	No	Straight	Piaffe
+80201431	802014	1	10	Transitions piaffe and passage	Transition	No	No	Straight	Passage to Piaffe to Passage
+80201432	802014	1	10	XG passage	Passage	No	No	Straight	Passage
+80201433	802014	1	10	G halt salute	Centerline	No	No	Straight	Passage
+02201501	022015	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+02201502	022015	1	10	C track right B circle right 20m	Circle	No	No	Right	Working Trot
+02201503	022015	1	10	KXM change rein working trot	Diagonal	No	No	Right to Left	Working Trot
+02201504	022015	1	10	Between C and H working canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+02201505	022015	2	20	E circle left 20m	Circle	No	No	Left	Working Canter
+02201506	022015	1	10	Between E and K working trot	Transition	No	No	Left	Working Canter to Working Trot
+02201507	022015	1	10	A circle left 20m stretch circle	Stretching	No	No	Left	Stretch Trot
+02201508	022015	1	10	A medium walk; A-F medium walk	Transition	No	No	Left	Working Trot to Medium Walk
+02201509	022015	2	20	FXM free walk	Free Walk	No	No	Left	Free Walk
+02201510	022015	1	10	MC medium walk	Walk	No	No	Left	Medium Walk  
+02201511	022015	1	10	C working trot; E circle left 20m	Circle	No	No	Left	Medium Walk to Working Trot
+02201512	022015	1	10	FXH change rein working trot	Diagonal	No	No	Left to Right	Working Trot
+02201513	022015	1	10	Between C and M working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+02201514	022015	2	20	B circle right 20m	Circle	No	No	Right	Working Canter
+02201515	022015	1	10	Between B and F working trot	Transition	No	No	Right	Working Canter to Working Trot
+02201516	022015	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+03201501	032015	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+03201502	032015	1	10	C track left HXK one loop	Serpentine	No	No	Left	Working Trot
+03201503	032015	1	10	Between A and F workign canter left lead	Transition	No	No	Left	Working Trot to Working Canter
+03201504	032015	1	10	B circle left 20m	Circle	No	No	Left	Working Canter
+03201505	032015	1	10	HXF change rein X working trot	Transition	No	No	Left to Right	Working Canter to Working Trot
+03201506	032015	1	10	A medium walk 	Transition	No	No	Right	Working Trot to Medium Walk
+03201507	032015	2	20	KXH free walk	Free Walk	No	No	Right	Free Walk
+03201508	032015	1	10	C working trot MXF one loop	Serpentine	No	No	Right	Working Trot
+03201509	032015	1	10	Between A and K working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+03201510	032015	1	10	E circle right 20m	Circle	No	No	Right	Working Canter
+03201511	032015	1	10	C working trot	Transition	No	No	Right	Working Canter to Working Trot
+03201512	032015	2	20	B stretch circle	Stretching	No	No	Right	Stretch Trot
+03201513	032015	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+11201501	112015	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+11201502	112015	1	10	C track left; E-X half circle 10m returning to the track at H	Half Circle	No	No	Left	Working Trot
+11201503	112015	1	10	B-X half circle 10m returning to the track at M	Half Circle	No	No	Right	Working Trot
+11201504	112015	2	20	C Stretch circle	Stretching	No	No	Left	Stretch Trot
+11201505	112015	1	10	S-F Lengthen stride; F working trot 	Lengthening	No	Yes	Left to Right	Lengthened Trot
+11201506	112015	1	10	A medium walk	Transition	No	No	Right	Working Trot to Medium Walk
+11201507	112015	2	20	VR free walk	Free Walk	No	No	Right to Left	Free Walk
+11201508	112015	2	20	M working trot C working canter left lead	Transition	No	No	Left	Medium Walk to Working Trot to Working Canter
+11201509	112015	1	10	SV lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+11201510	112015	1	10	V circle left 15m	Circle	No	No	Left	Working Canter
+11201511	112015	1	10	FXH change rein X working trot	Transition	No	No	Left to Right	Working Canter to Working Trot
+11201512	112015	1	10	C working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+11201513	112015	1	10	RP lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+11201514	112015	1	10	P circle right 15m	Circle	No	No	Right	Working Canter
+11201515	112015	1	10	A working trot	Transition	No	No	Right	Working Canter to Working Trot
+11201516	112015	1	10	VM change rein lengthen stride in trot	Lengthening	No	Yes	Right to Left	Lengthened Trot
+11201517	112015	1	10	E turn left, X turn left, G halt salute	Centerline	No	No	Left	Working Trot
+12201501	122015	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+12201502	122015	1	10	C track right MV change rein lengthen stride	Lengthening	No	Yes	Right to Left	Lengthened Trot
+12201503	122015	1	10	KD half circle left 10m	Half Circle	No	No	Left	Working Trot
+12201504	122015	1	10	LM leg yeild right	Leg Yield	Yes	No	Right	Working Trot
+12201505	122015	1	10	HP change rein lengthen stride in trot	Lengthening	No	Yes	Left to Right	Lengthened Trot
+12201506	122015	1	10	FD half circle right 10m	Half Circle	No	No	Right	Working Trot
+12201507	122015	1	10	LH leg yield left	Leg Yield	Yes	No	Left	Working Trot
+12201508	122015	1	10	C medium walk	Transition	No	No	Right	Working Trot to Medium Walk
+12201509	122015	2	20	MV change rein free walk	Free Walk	No	No	Right to Left	Free Walk
+12201510	122015	1	10	K working trot A working canter left lead	Transition	No	No	Left	Medium Walk to Working Trot to Working Canter
+12201511	122015	1	10	P circle left 15m	Circle	No	No	Left	Working Canter  
+12201512	122015	2	20	PM lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+12201513	122015	1	10	Between M and C develop working canter	Lengthening	No	Yes	Left	Lengthened Canter
+12201514	122015	1	10	HXF change rein X working trot	Transition	No	No	Left to Right	Working Canter to Working Trot
+12201515	122015	1	10	F working canter right lead	Transition	No	No	Right	Working Trot to Working Canter
+12201516	122015	1	10	V circle right 15m	Circle	No	No	Right	Working Canter  
+12201517	122015	2	20	VH lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+12201518	122015	1	10	Between H and C develop working canter	Lengthening	No	Yes	Right	Lengthened Canter
+12201519	122015	1	10	M working trot  	Transition	No	No	Right	Working Canter to Working Trot
+12201520	122015	2	20	B stretch circle	Stretching	No	No	Right	Stretch trot
+12201521	122015	1	10	A Down centerline; X halt salute	Centerline	No	No	Right	Working Trot
+13201501	132015	1	10	A Enter working trot; X halt salute, proceed working trot	Centerline	No	No	Straight	Working Trot
+13201502	132015	1	10	C track left HXF change rein lengthen stride in trot	Lengthening	No	Yes	Left to Right	Lengthened Trot
+13201503	132015	1	10	KX leg yield right	Leg yield	Yes	No	Right	Working Trot
+13201504	132015	1	10	XH leg yield left	Leg yield	Yes	No	Left	Working Trot
+13201505	132015	2	20	C Stretch circle	Stretching	No	No	Right	Stretch Trot
+13201506	132015	1	10	R circle right 10m	Circle	No	No	Right	Working Trot
+13201507	132015	2	20	B turn right X halt E turn left	Transition	No	No	Right to Left	Working Trot to Halt to Working Trot
+13201508	132015	1	10	V circle left 10m	Circle	No	No	Left	Working Trot
+13201509	132015	1	10	A medium walk	Transition	No	No	Left	Working Trot to Medium Walk
+13201510	132015	2	20	FS free walk	Free Walk	No	No	Left to Right	Free Walk
+13201511	132015	1	10	H working trot C workign canter right lead	Transition	No	No	Right	Medium Walk to Working Trot to Working Canter
+13201512	132015	1	10	C circle right 15m	Circle	No	No	Right	Working Canter
+13201513	132015	1	10	MP lengthen stride in canter	Lengthening	No	Yes	Right	Lengthened Canter
+13201514	132015	1	10	P working canter	Lengthening	No	Yes	Right	Lengthened Canter
+13201515	132015	2	20	KXH one loop maintaining right lead	Counter Canter	No	No	Right	Working Canter
+13201516	132015	1	10	MXK change rein X change of lead through trot	Lead Change	No	No	Right to Left	Working Canter to Working Trot to Working Canter
+13201517	132015	1	10	A circle left 15m	Circle	No	No	Left	Working Canter
+13201518	132015	1	10	F-R lengthen stride in canter	Lengthening	No	Yes	Left	Lengthened Canter
+13201519	132015	1	10	R working canter	Lengthening	No	Yes	Left	Lengthened Canter
+13201520	132015	2	20	HXK one loop maintaining the left lead	Counter Canter	No	No	Left	Working Canter
+13201521	132015	1	10	A working trot FXH change rein lengthen stride in trot	Lengthening	No	Yes	Left to Right	Lengthened Trot
+13201522	132015	1	10	B half circle right 10m X down centerline G halt salute	Centerline	No	No	Right	Working Trot
+31201901	312019	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+31201902	312019	1	10	C track left; S-V shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+31201903	312019	2	20	V-L half circle left 10m; L-H half pass left	Half Pass	Yes	No	Left	Collected Trot
+31201904	312019	1	10	R-P shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+31201905	312019	2	20	P-L half circle 10m; L-M half pass right	Half Pass	Yes	No	Right	Collected Trot
+31201906	312019	1	10	HXF medium trot; F collected trot	Medium	No	Yes	Left to Right	Medium Trot
+31201907	312019	1	10	A halt rein back four steps proceed medium walk 	Reinback	No	No	Right	Reinback
+31201908	312019	2	20	K-R extended walk	Extended	No	Yes	Right to Left	Extended Walk
+31201909	312019	2	20	R medium walk M turn left between G and H half turn on the haunches left	Walk pirouette	No	No	Left	Medium Walk
+31201910	312019	2	20	Between G and M half turn on the haunches right H track right H-C medium walk	Walk pirouette	No	No	Right	Medium Walk
+31201911	312019	1	10	(medium walk)	Walk	No	No	Right	Medium Walk
+31201912	312019	1	10	Before C shorten stride in walk; C collected canter right lead	Transition	No	No	Right	Medium Walk to Collected Canter
+31201913	312019	1	10	M-F medium canter F collected canter	Medium	No	Yes	Right	Medium Canter
+31201914	312019	1	10	V circle right 10m	Circle	No	No	Right	Collected Canter
+31201915	312019	2	20	V-R change rein flying change between centerline and R	Lead Change	No	No	Right to Left	Collected Canter
+31201916	312019	1	10	C circle left 10m showing a clear release of inside rein for 4-5 strides over centerline	Self Carriage	No	No	Left	Collected Canter
+31201917	312019	1	10	H-K extended canter K collected canter	Extended	No	Yes	Left	Extended Canter
+31201918	312019	1	10	(transition at H and K) 	Extended	No	Yes	Left	Extended Canter
+31201919	312019	1	10	P circle left 10m	Circle	No	No	Left	Collected Canter
+31201920	312019	2	20	P-S change rein flying change between centerline and S	Lead Change	No	No	Left to Right	Collected Canter
+31201921	312019	1	10	C collected trot	Transition	No	No	Right	Collected Canter to Collected Trot
+31201922	312019	1	10	MXK extended trot K collected trot	Extended	No	Yes	Right to Left	Extended Trot
+31201923	312019	1	10	A down centerline; X halt salute	Centerline	No	No	Left	Collected Trot
+33201901	332019	1	10	A enter collected trot; X halt salute, proceed collected trot	Centerline	No	No	Straight	Collected Trot
+33201902	332019	1	10	C track left HXF medium trot	Medium	No	Yes	Left to Right	Medium Trot
+33201903	332019	1	10	KE shoulder-in right	Shoulder-in	Yes	No	Right	Collected Trot
+33201904	332019	1	10	E-X half circle right 10m XB half circle left 10m	Serpentine	No	No	Right to Left	Collected Trot
+33201905	332019	2	20	BG half pass left C track right	Half Pass	Yes	No	Left	Collected Trot
+33201906	332019	1	10	MXK change rein extended trot	Extended	No	Yes	Right to Left	Extended Trot
+33201907	332019	1	10	(transitions MK)	Extended	No	Yes	Right to Left	Extended Trot
+33201908	332019	2	20	A halt reinback 4 steps	Reinback	No	No	Left	Reinback
+33201909	332019	1	10	FB shoulder-in left	Shoulder-in	Yes	No	Left	Collected Trot
+33201910	332019	1	10	BX half circle left 10m XE half circle right 10m	Serpentine	No	No	Left to Right	Collected Trot
+33201911	332019	2	20	EG half pass right C track left	Half pass	Yes	No	Right	Collected Trot
+33201912	332019	1	10	Between C and H medium walk H turn left Between G and M half turn on haunches left	Walk pirouette	No	No	Left	Medium Walk
+33201913	332019	1	10	Between G and H half turn on haunches right M turn right	Walk pirouette	No	No	Right	Medium Walk
+33201914	332019	2	20	(medium walk)	Walk	No	No	Right	Medium Walk
+33201915	332019	2	20	RV change rein extended walk	Extended	No	Yes	Right to Left	Extended Walk
+33201916	332019	1	10	K collected canter left lead	Transition	No	No	Left	Medium Walk to Collected Canter
+33201917	332019	2	20	FX half pass left XI collected canter	Half pass	Yes	No	Left	Collected Canter
+33201918	332019	2	20	IS half circle left 10m SF change rein flying change near centerline	Lead Change	No	No	Left to Right	Collected Canter
+33201919	332019	2	20	KX half pass right XI collected canter	Half pass	Yes	No	Right	Collected Canter
+33201920	332019	2	20	IR half circle right 10m RK change rein flying change near centerline	Lead Change	No	No	Right to Left	Collected Canter
+33201921	332019	1	10	FM extended canter	Extended	No	Yes	Left	Extended Canter
+33201922	332019	1	10	MCH transitions F amd M Collected canter	Extended	No	Yes	Left	Extended Canter
+33201923	332019	1	10	H collected trot	Transition	No	No	Left	Collected Canter to Collected Trot
+33201924	332019	1	10	E turn left X turn left G halt salute	Centerline	No	No	Left	Collected Trot

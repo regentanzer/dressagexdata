@@ -1,1 +1,0 @@
-SELECT * FROM DressageTests.dressage_database.sqlite.horses;
